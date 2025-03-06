@@ -16,6 +16,5 @@
     <description>New XML tutorial on W3Schools</description>
   </item>
 
-    <language>nl-NL</language>
   </channel>
 </rss>
