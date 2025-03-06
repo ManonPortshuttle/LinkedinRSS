@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Mijn LinkedIn Updates</title>
+    <link>https://www.linkedin.com/company/portshuttle-rotterdam/</link>
+    <description>RSS-feed van mijn LinkedIn-berichten</description>
+    <language>nl-NL</language>
+
+    <item>
+      <title>Mijn nieuwste post</title>
+      <link>https://www.linkedin.com/feed/update/12345</link>
+      <description>Dit is een voorbeeld van een LinkedIn-update.</description>
+      <pubDate>Thu, 06 Mar 2025 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
